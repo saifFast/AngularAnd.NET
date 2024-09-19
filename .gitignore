@@ -34,3 +34,7 @@
 !Views/
 !wwwroot/
 !App_Data/
+!public/
+!source/
+!app/
+!esproj/
