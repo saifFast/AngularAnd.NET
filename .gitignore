@@ -1,0 +1,8 @@
+# Ignore all files
+*
+
+# Allow .cs files
+!*.cs
+
+# Allow directories to be included
+!*/ 
