@@ -1,8 +1,36 @@
-# Ignore all files
+# Ignore all files by default
 *
 
-# Allow .cs files
+# Allow C# files
 !*.cs
 
-# Allow directories to be included
-!*/ 
+# Allow specific directories
+!bin/
+!obj/
+!wwwroot/
+!Properties/
+
+# Allow configuration and essential files
+!*.config
+!*.json
+!*.xml
+
+# Allow project files
+!*.csproj
+!*.sln
+
+# Allow migrations (if using Entity Framework)
+!Migrations/
+
+# Allow other necessary file types (e.g., Markdown for documentation)
+!*.md
+
+# Allow NuGet packages (optional, depending on your project setup)
+!packages/
+
+# Allow necessary folders
+!Controllers/
+!Models/
+!Views/
+!wwwroot/
+!App_Data/
