@@ -14,7 +14,10 @@ namespace WebAPIDotNetCore8.Controllers
             {
                 new SuperHeroModel() { Id = 1, Name = "Saif" , Power = "SuperMan" },
                 new SuperHeroModel() { Id = 2, Name = "Khan" , Power = "Batman" },
-                new SuperHeroModel() { Id = 3, Name = "Hakro" , Power = "SpiderMan" }
+                new SuperHeroModel() { Id = 3, Name = "Hakro" , Power = "SpiderMan" },
+                new SuperHeroModel() { Id = 4, Name = "Akber" , Power = "IronMan" },
+                new SuperHeroModel() { Id = 5, Name = "Umer" , Power = "Hulk" },
+                new SuperHeroModel() { Id = 6, Name = "Zain" , Power = "Strange" },
             };
 
         // GET api/superheros
