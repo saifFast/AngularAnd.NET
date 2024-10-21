@@ -1,12 +1,133 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\GitHub\\WebAPIDotNetCore8\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79D0A212-58DF-4C63-A0AD-FE1183079340}|WebAPIDotNetCore8\\WebAPIDotNetCore8.csproj|e:\\github\\webapidotnetcore8\\webapidotnetcore8\\webapidotnetcore8.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{79D0A212-58DF-4C63-A0AD-FE1183079340}|WebAPIDotNetCore8\\WebAPIDotNetCore8.csproj|solutionrelative:webapidotnetcore8\\webapidotnetcore8.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03CDC5E-69D0-4EB7-A3E6-BD396A53FDA7}|SuperHeroUI\\SuperHeroUI.esproj|e:\\github\\webapidotnetcore8\\superheroui\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{F03CDC5E-69D0-4EB7-A3E6-BD396A53FDA7}|SuperHeroUI\\SuperHeroUI.esproj|solutionrelative:superheroui\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03CDC5E-69D0-4EB7-A3E6-BD396A53FDA7}|SuperHeroUI\\SuperHeroUI.esproj|e:\\github\\webapidotnetcore8\\superheroui\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{F03CDC5E-69D0-4EB7-A3E6-BD396A53FDA7}|SuperHeroUI\\SuperHeroUI.esproj|solutionrelative:superheroui\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03CDC5E-69D0-4EB7-A3E6-BD396A53FDA7}|SuperHeroUI\\SuperHeroUI.esproj|e:\\github\\webapidotnetcore8\\superheroui\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{F03CDC5E-69D0-4EB7-A3E6-BD396A53FDA7}|SuperHeroUI\\SuperHeroUI.esproj|solutionrelative:superheroui\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03CDC5E-69D0-4EB7-A3E6-BD396A53FDA7}|SuperHeroUI\\SuperHeroUI.esproj|e:\\github\\webapidotnetcore8\\superheroui\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F03CDC5E-69D0-4EB7-A3E6-BD396A53FDA7}|SuperHeroUI\\SuperHeroUI.esproj|solutionrelative:superheroui\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03CDC5E-69D0-4EB7-A3E6-BD396A53FDA7}|SuperHeroUI\\SuperHeroUI.esproj|e:\\github\\webapidotnetcore8\\superheroui\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F03CDC5E-69D0-4EB7-A3E6-BD396A53FDA7}|SuperHeroUI\\SuperHeroUI.esproj|solutionrelative:superheroui\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03CDC5E-69D0-4EB7-A3E6-BD396A53FDA7}|SuperHeroUI\\SuperHeroUI.esproj|e:\\github\\webapidotnetcore8\\superheroui\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F03CDC5E-69D0-4EB7-A3E6-BD396A53FDA7}|SuperHeroUI\\SuperHeroUI.esproj|solutionrelative:superheroui\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebAPIDotNetCore8",
+              "DocumentMoniker": "E:\\GitHub\\WebAPIDotNetCore8\\WebAPIDotNetCore8\\WebAPIDotNetCore8.csproj",
+              "RelativeDocumentMoniker": "WebAPIDotNetCore8\\WebAPIDotNetCore8.csproj",
+              "ToolTip": "E:\\GitHub\\WebAPIDotNetCore8\\WebAPIDotNetCore8\\WebAPIDotNetCore8.csproj",
+              "RelativeToolTip": "WebAPIDotNetCore8\\WebAPIDotNetCore8.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T10:11:40.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "E:\\GitHub\\WebAPIDotNetCore8\\SuperHeroUI\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "SuperHeroUI\\src\\app\\app.component.ts",
+              "ToolTip": "E:\\GitHub\\WebAPIDotNetCore8\\SuperHeroUI\\src\\app\\app.component.ts",
+              "RelativeToolTip": "SuperHeroUI\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-19T08:54:46.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.component.html",
+              "DocumentMoniker": "E:\\GitHub\\WebAPIDotNetCore8\\SuperHeroUI\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "SuperHeroUI\\src\\app\\app.component.html",
+              "ToolTip": "E:\\GitHub\\WebAPIDotNetCore8\\SuperHeroUI\\src\\app\\app.component.html",
+              "RelativeToolTip": "SuperHeroUI\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-19T08:46:33.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "E:\\GitHub\\WebAPIDotNetCore8\\SuperHeroUI\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "SuperHeroUI\\src\\app\\app-routing.module.ts",
+              "ToolTip": "E:\\GitHub\\WebAPIDotNetCore8\\SuperHeroUI\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "SuperHeroUI\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-19T08:46:37.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "E:\\GitHub\\WebAPIDotNetCore8\\SuperHeroUI\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "SuperHeroUI\\src\\app\\app.module.ts",
+              "ToolTip": "E:\\GitHub\\WebAPIDotNetCore8\\SuperHeroUI\\src\\app\\app.module.ts",
+              "RelativeToolTip": "SuperHeroUI\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-19T08:46:36.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\GitHub\\WebAPIDotNetCore8\\SuperHeroUI\\src\\index.html",
+              "RelativeDocumentMoniker": "SuperHeroUI\\src\\index.html",
+              "ToolTip": "E:\\GitHub\\WebAPIDotNetCore8\\SuperHeroUI\\src\\index.html",
+              "RelativeToolTip": "SuperHeroUI\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-19T08:46:38.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.component.css",
+              "DocumentMoniker": "E:\\GitHub\\WebAPIDotNetCore8\\SuperHeroUI\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "SuperHeroUI\\src\\app\\app.component.css",
+              "ToolTip": "E:\\GitHub\\WebAPIDotNetCore8\\SuperHeroUI\\src\\app\\app.component.css",
+              "RelativeToolTip": "SuperHeroUI\\src\\app\\app.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-19T08:46:35.293Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
